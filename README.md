@@ -16,7 +16,7 @@
 <br>
 <p>It's an exercise to practice HTML and some CSS attributes</p>
 
-<a href="https://jefmaeda.github.io/Componente-de-trabalho/" target="_blank">Here you can check the project online</a>
+<a href="https://jefmaeda.github.io/jogo-de-adivinhar/" target="_blank">Here you can check the project online</a>
 <br>
 <br>
 
